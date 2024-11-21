@@ -1,5 +1,7 @@
 # Financial analysys
+Бот для анализа финансового рынка.
 
+[Презентация проекта](https://docs.google.com/presentation/d/1FBnY5vrQ-F1Qj5Bo-j3hsQxz_2yGdN9r/edit?usp=sharing&ouid=115249572653893199541&rtpof=true&sd=true)
 
 
 ## Getting started
